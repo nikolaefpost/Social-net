@@ -1,0 +1,6 @@
+.sadebar{
+    grid-area: n;
+    background: rgb(0,113,207);
+    color: white;
+    padding: 1em;
+}

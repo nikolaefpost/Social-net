@@ -1,0 +1,10 @@
+.main_content{
+    grid-area: c;
+    margin-top: 0;
+    background: rgb(147,207,239);
+}
+
+
+.fon{
+    width: 100%;
+}
