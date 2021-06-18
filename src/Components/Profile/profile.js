@@ -1,6 +1,6 @@
 import style from './profile.module.css'
 import MyPosts from "./MyPosts/myPosts";
-import User from "./MyPosts/User/user";
+import User from "./User/user";
 
 function Profile() {
     return (
@@ -8,6 +8,7 @@ function Profile() {
             <img className={style.fon}
                  src='sea_beach.jpg'/>
             <User></User>
+            <MyPosts></MyPosts>
 
 
         </main>

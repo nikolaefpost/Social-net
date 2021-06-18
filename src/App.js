@@ -1,8 +1,9 @@
 
 import './App.css';
-import Header from "./Header/header";
-import Sidebar from "./Sidebar/sidebar";
-import Profile from "./Profile/profile";
+import Header from "./Components/Header/header";
+import Sidebar from "./Components/Sidebar/sidebar";
+import Profile from "./Components/Profile/profile";
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
     return (
